@@ -1691,20 +1691,32 @@
     margin-left: 150px;
     margin-top: 15px;
 }
-.hr4{
+
+.hr4 {
     cursor: pointer;
 }
-.hr6{
+
+.hr6 {
     margin-left: 25px;
     cursor: pointer;
 }
-.hr5{
+
+.hr5 {
     margin-left: 18px;
     cursor: pointer;
 }
-.globus{
+
+.globus {
     margin-left: 15px;
     position: absolute;
     margin-top: -5px;
+    cursor: pointer;
+}
+
+.mzx {
+    cursor: pointer;
+}
+
+.oqa {
     cursor: pointer;
 }
